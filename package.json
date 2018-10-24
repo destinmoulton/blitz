@@ -9,6 +9,7 @@
     "cheerio": "^1.0.0-rc.2",
     "mysql2": "^1.6.1",
     "nightmare": "^3.0.1",
-    "sequelize": "^4.41.0"
+    "sequelize": "^4.41.0",
+    "slugify": "^1.3.1"
   }
 }
