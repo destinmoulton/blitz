@@ -1,0 +1,12 @@
+{
+  "name": "blitz",
+  "version": "0.0.1",
+  "description": "NFL information scraper and API.",
+  "main": "index.js",
+  "author": "Destin Moulton",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "nightmare": "^3.0.1"
+  }
+}
