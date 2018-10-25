@@ -32,6 +32,10 @@ class ScrapersMetaModel {
     async getAll() {
         return await this.ScrapersMeta.findAll();
     }
+
+    async add(data) {
+        return await this.ScrapersMeta.create(update);
+    }
 }
 
 module.exports = ScrapersMetaModel;
