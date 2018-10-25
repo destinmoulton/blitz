@@ -34,7 +34,7 @@ class ScrapersMetaModel {
     }
 
     async add(data) {
-        return await this.ScrapersMeta.create(update);
+        return await this.ScrapersMeta.create(data);
     }
 }
 
