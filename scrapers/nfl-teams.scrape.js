@@ -7,7 +7,7 @@ module.exports = {
     waitFor: "section.wisbb_body",
     // Sequelize model
     model: {
-        table: "teams",
+        table: "sxp_teams",
         attributes: {
             id: {
                 type: Sequelize.INTEGER,
