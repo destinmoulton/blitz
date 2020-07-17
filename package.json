@@ -9,7 +9,7 @@
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mysql2": "^1.6.1",
     "nightmare": "^3.0.1",
     "sequelize": "^5.10.1",
